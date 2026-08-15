@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374510118850",
+    "firebase_url": "https://kathansh-7bb0e-default-rtdb.firebaseio.com",
+    "project_id": "kathansh-7bb0e",
+    "storage_bucket": "kathansh-7bb0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374510118850:android:4c6d77537f1d03f3b1585b",
+        "android_client_info": {
+          "package_name": "com.kavira.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374510118850-i0ga6r15ntj50j21ctimdhsdobmlmg99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEoXWItrebtDpkTW0sMCuvNRhJqr37kfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374510118850-i0ga6r15ntj50j21ctimdhsdobmlmg99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
